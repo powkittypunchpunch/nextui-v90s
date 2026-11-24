@@ -25,7 +25,7 @@ Hold **Y** on a game in the GBA list to switch its core. **gpSP** is the default
 ## Clean install
 
 1. Download **oakmoss-v90s-v0.7.0-beta.1-sd1.img.xz**. Use Rufus or any disk-image flasher to write it to SD card. Boot oakMOSS once to initialize the data partition. [Official oakMOSS release](https://github.com/spruceUI/oakMOSS/releases/tag/v0.7.0-beta.1)
-2. Power off and extract the clean-install ZIP directly to the card’s **SPRUCEOS** data partition.
+2. On the [GitHub release page](https://github.com/powkittypunchpunch/nextui-v90s/releases/tag/v1.1.13-v90s.1), find **NextUI-V90S-Community-Preview-Clean-Install.zip** under **Assets**. The optional **NextUI-V90S-Windows-Tools.zip** is there too. Power off the V90S and extract the clean-install ZIP directly onto the card’s **SPRUCEOS** data partition.
 3. Boot NextUI and run **Menu button → Tools → Battery Setup** once to fix the false 0% boot issue and update the charging display. Shut down and boot again.
 4. Add games to **`Roms`** and any required BIOS files to **`Bios`**. In-game saves go under **`Saves`**. Empty systems, Tools, and Recents are hidden from the main list by default. Systems with games appear in this order: **NES → SNES → GB → GBC → GBA → Mega Drive → PlayStation**.
 
