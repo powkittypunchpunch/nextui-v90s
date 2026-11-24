@@ -10,7 +10,7 @@ The modified **gpSP** is tuned for smooth GBA play and fast-forward at lower CPU
 
 Performance improvements draw on GBAdhoc and armGBA, including how they handle games that rewrite code during play. Accuracy fixes adapted from GBAdhoc also let gpSP play **Pokémon Monomyth**. [GBAdhoc](https://github.com/ShoshinFauteux/GBAdhoc) · [armGBA](https://github.com/MagnominusGit/armGBA)
 
-Hold **Y** on a game in the GBA list to switch its core. **gpSP** is the default, with **armGBA 1.8.0** and **mGBA** as alternatives. You can change the default core in settings. Save states are separate for each core.
+Hold **Y** on a game in the GBA list to switch its core. **gpSP** is the default, with **armGBA 2.0** and **mGBA** as alternatives. You can change the default core in settings. Save states are separate for each core.
 
 ## What else is included
 
